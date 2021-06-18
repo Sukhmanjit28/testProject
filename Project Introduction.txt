@@ -1,1 +1,15 @@
 Project Introduction
+1.Post
+Users can upload their artworks in the form of videos and photos.
+
+2.Like
+Allows users to like the content posted.
+
+3.Purchases
+Customers can buy/order handmade products online.
+
+4.Rewards
+More the activity on the profile, more the number of free gifts will be rewarded to encourage the artists.
+
+5.Interactions
+The website allows artists to collaborate with each other via posts.
